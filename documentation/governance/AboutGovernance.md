@@ -10,7 +10,7 @@ The areas covered by these artifacts are consonant with ISO/IEC 38500:2024.
 
 ## Related Templates
 
-[Purpose and Scope](governance/PurposeAndScope.md)
+[Purpose and Scope](PurposeAndScope.md)
 
 [Impact and Metrics](governance/ImpactAndMetrics.md)
 
