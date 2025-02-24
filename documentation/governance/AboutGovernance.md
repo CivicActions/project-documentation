@@ -7,3 +7,22 @@ The content for these templates could initially come from RFP responses or contr
 These artifacts are meant to be published to the PUBLIC, therefore, the scope of question responses should be limited to project/product information that can be made available to the general public. 
 
 The areas covered by these artifacts are consonant with ISO/IEC 38500:2024.
+
+## Related Templates
+
+[Purpose and Scope](/PurposeAndScope.md)
+
+[Impact and Metrics](/ImpactAndMetrics.md)
+
+[Strategy](/Strategy.md)
+
+[Governance](/Governancel.md)
+
+[How to Contribute (and Code of Conduct)](/HowToContribute.md)
+
+[Content Management Policies and Practices](/ContentManagement.md)
+
+[Risk Management](/RiskManagement.md)
+
+[Glossary and Namespacing](/GlossaryAndNamespacing.md)
+
