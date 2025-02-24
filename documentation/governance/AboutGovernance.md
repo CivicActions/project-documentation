@@ -1,4 +1,4 @@
-#About these governance templates
+# About these governance templates
 
 The purpose of these artifacts is to create a concise map of governance issues for public projects to enable team members to identify gaps in understanding about key governance issues.
 
