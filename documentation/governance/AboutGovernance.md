@@ -10,19 +10,19 @@ The areas covered by these artifacts are consonant with ISO/IEC 38500:2024.
 
 ## Related Templates
 
-[Purpose and Scope](/PurposeAndScope.md)
+[Purpose and Scope](governance/PurposeAndScope.md)
 
-[Impact and Metrics](/ImpactAndMetrics.md)
+[Impact and Metrics](governance/ImpactAndMetrics.md)
 
-[Strategy](/Strategy.md)
+[Strategy](governance/Strategy.md)
 
-[Governance](/Governancel.md)
+[Governance](governance/Governancel.md)
 
-[How to Contribute (and Code of Conduct)](/HowToContribute.md)
+[How to Contribute (and Code of Conduct)](governance/HowToContribute.md)
 
-[Content Management Policies and Practices](/ContentManagement.md)
+[Content Management Policies and Practices](governance/ContentManagement.md)
 
-[Risk Management](/RiskManagement.md)
+[Risk Management](governance/RiskManagement.md)
 
-[Glossary and Namespacing](/GlossaryAndNamespacing.md)
+[Glossary and Namespacing](governance/GlossaryAndNamespacing.md)
 
